@@ -1,1 +1,4 @@
+The RTL source code for the asynchronous FIFO is taken from below lik:
+http://www.verilogpro.com/asynchronous-fifo-design/
 
+Need to develope a testbench for Asynchronous fifo.
